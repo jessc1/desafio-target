@@ -1,0 +1,15 @@
+c:\Users\Maria Jessica\Documents\c#\stockMovement\stockMovement\bin\Debug\net9.0\stockMovement.exe
+c:\Users\Maria Jessica\Documents\c#\stockMovement\stockMovement\bin\Debug\net9.0\stock.json
+C:\Users\Maria Jessica\Documents\c#\stockMovement\stockMovement\bin\Debug\net9.0\stockMovement.deps.json
+C:\Users\Maria Jessica\Documents\c#\stockMovement\stockMovement\bin\Debug\net9.0\stockMovement.runtimeconfig.json
+c:\Users\Maria Jessica\Documents\c#\stockMovement\stockMovement\bin\Debug\net9.0\stockMovement.dll
+c:\Users\Maria Jessica\Documents\c#\stockMovement\stockMovement\bin\Debug\net9.0\stockMovement.pdb
+c:\Users\Maria Jessica\Documents\c#\stockMovement\stockMovement\obj\Debug\net9.0\stockMovement.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Maria Jessica\Documents\c#\stockMovement\stockMovement\obj\Debug\net9.0\stockMovement.AssemblyInfoInputs.cache
+c:\Users\Maria Jessica\Documents\c#\stockMovement\stockMovement\obj\Debug\net9.0\stockMovement.AssemblyInfo.cs
+c:\Users\Maria Jessica\Documents\c#\stockMovement\stockMovement\obj\Debug\net9.0\stockMovement.csproj.CoreCompileInputs.cache
+c:\Users\Maria Jessica\Documents\c#\stockMovement\stockMovement\obj\Debug\net9.0\stockMovement.dll
+c:\Users\Maria Jessica\Documents\c#\stockMovement\stockMovement\obj\Debug\net9.0\refint\stockMovement.dll
+c:\Users\Maria Jessica\Documents\c#\stockMovement\stockMovement\obj\Debug\net9.0\stockMovement.pdb
+C:\Users\Maria Jessica\Documents\c#\stockMovement\stockMovement\obj\Debug\net9.0\stockMovement.genruntimeconfig.cache
+C:\Users\Maria Jessica\Documents\c#\stockMovement\stockMovement\obj\Debug\net9.0\ref\stockMovement.dll

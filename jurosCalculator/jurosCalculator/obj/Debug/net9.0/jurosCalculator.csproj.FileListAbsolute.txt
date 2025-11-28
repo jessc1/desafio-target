@@ -1,0 +1,14 @@
+C:\Users\Maria Jessica\Documents\c#\jurosCalculator\jurosCalculator\bin\Debug\net9.0\jurosCalculator.exe
+C:\Users\Maria Jessica\Documents\c#\jurosCalculator\jurosCalculator\bin\Debug\net9.0\jurosCalculator.deps.json
+C:\Users\Maria Jessica\Documents\c#\jurosCalculator\jurosCalculator\bin\Debug\net9.0\jurosCalculator.runtimeconfig.json
+C:\Users\Maria Jessica\Documents\c#\jurosCalculator\jurosCalculator\bin\Debug\net9.0\jurosCalculator.dll
+C:\Users\Maria Jessica\Documents\c#\jurosCalculator\jurosCalculator\bin\Debug\net9.0\jurosCalculator.pdb
+C:\Users\Maria Jessica\Documents\c#\jurosCalculator\jurosCalculator\obj\Debug\net9.0\jurosCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Jessica\Documents\c#\jurosCalculator\jurosCalculator\obj\Debug\net9.0\jurosCalculator.AssemblyInfoInputs.cache
+C:\Users\Maria Jessica\Documents\c#\jurosCalculator\jurosCalculator\obj\Debug\net9.0\jurosCalculator.AssemblyInfo.cs
+C:\Users\Maria Jessica\Documents\c#\jurosCalculator\jurosCalculator\obj\Debug\net9.0\jurosCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Maria Jessica\Documents\c#\jurosCalculator\jurosCalculator\obj\Debug\net9.0\jurosCalculator.dll
+C:\Users\Maria Jessica\Documents\c#\jurosCalculator\jurosCalculator\obj\Debug\net9.0\refint\jurosCalculator.dll
+C:\Users\Maria Jessica\Documents\c#\jurosCalculator\jurosCalculator\obj\Debug\net9.0\jurosCalculator.pdb
+C:\Users\Maria Jessica\Documents\c#\jurosCalculator\jurosCalculator\obj\Debug\net9.0\jurosCalculator.genruntimeconfig.cache
+C:\Users\Maria Jessica\Documents\c#\jurosCalculator\jurosCalculator\obj\Debug\net9.0\ref\jurosCalculator.dll

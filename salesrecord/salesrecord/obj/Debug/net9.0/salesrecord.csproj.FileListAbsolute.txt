@@ -1,0 +1,15 @@
+C:\Users\Maria Jessica\Documents\c#\salesrecord\salesrecord\bin\Debug\net9.0\salesrecord.exe
+C:\Users\Maria Jessica\Documents\c#\salesrecord\salesrecord\bin\Debug\net9.0\salesrecord.deps.json
+C:\Users\Maria Jessica\Documents\c#\salesrecord\salesrecord\bin\Debug\net9.0\salesrecord.runtimeconfig.json
+C:\Users\Maria Jessica\Documents\c#\salesrecord\salesrecord\bin\Debug\net9.0\salesrecord.dll
+C:\Users\Maria Jessica\Documents\c#\salesrecord\salesrecord\bin\Debug\net9.0\salesrecord.pdb
+C:\Users\Maria Jessica\Documents\c#\salesrecord\salesrecord\obj\Debug\net9.0\salesrecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria Jessica\Documents\c#\salesrecord\salesrecord\obj\Debug\net9.0\salesrecord.AssemblyInfoInputs.cache
+C:\Users\Maria Jessica\Documents\c#\salesrecord\salesrecord\obj\Debug\net9.0\salesrecord.AssemblyInfo.cs
+C:\Users\Maria Jessica\Documents\c#\salesrecord\salesrecord\obj\Debug\net9.0\salesrecord.csproj.CoreCompileInputs.cache
+C:\Users\Maria Jessica\Documents\c#\salesrecord\salesrecord\obj\Debug\net9.0\salesrecord.dll
+C:\Users\Maria Jessica\Documents\c#\salesrecord\salesrecord\obj\Debug\net9.0\refint\salesrecord.dll
+C:\Users\Maria Jessica\Documents\c#\salesrecord\salesrecord\obj\Debug\net9.0\salesrecord.pdb
+C:\Users\Maria Jessica\Documents\c#\salesrecord\salesrecord\obj\Debug\net9.0\salesrecord.genruntimeconfig.cache
+C:\Users\Maria Jessica\Documents\c#\salesrecord\salesrecord\obj\Debug\net9.0\ref\salesrecord.dll
+C:\Users\Maria Jessica\Documents\c#\salesrecord\salesrecord\bin\Debug\net9.0\sales.json
